@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppiumFramework.iml" filepath="$PROJECT_DIR$/.idea/AppiumFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AppiumPython/.idea/AppiumPython.iml" filepath="$PROJECT_DIR$/../AppiumPython/.idea/AppiumPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LambdaTest/.idea/LambdaTest.iml" filepath="$PROJECT_DIR$/../LambdaTest/.idea/LambdaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonLearn/.idea/PythonLearn.iml" filepath="$PROJECT_DIR$/../PythonLearn/.idea/PythonLearn.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/pytest-selenium-sample-master/.idea/pytest-selenium-sample-master.iml" filepath="$USER_HOME$/Downloads/pytest-selenium-sample-master/.idea/pytest-selenium-sample-master.iml" />
+    </modules>
+  </component>
+</project>
