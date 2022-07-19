@@ -5,7 +5,7 @@ from appium import webdriver
 class AndroidApp:
 
     userName = ""  #Enter your LT Username here
-    accessKey = "4U0LRkIXHxm9dleSjkQkryCO2l5hYkdqBeZIU387lnqC7wzNdG" #Enter your LT AccessKey here
+    accessKey = "" #Enter your LT AccessKey here
     gridURL = ""
 
     DeviceValue=""
