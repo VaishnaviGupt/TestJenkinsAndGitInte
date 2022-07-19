@@ -9,7 +9,7 @@ class Driver():
         desired_caps['platformVersion'] = '12'
         desired_caps['deviceName'] = 'Pixel 2 API 32'
         desired_caps['automationName'] = 'UiAutomator2'
-        desired_caps['app'] = ('/Users/goldi.garg/Downloads/Android_Demo_App.apk')
+        desired_caps['app'] = ('')
         # desired_caps['appPackage']=''
         # desired_caps['appActivity']=''
 
