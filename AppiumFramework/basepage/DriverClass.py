@@ -13,6 +13,6 @@ class Driver():
         # desired_caps['appPackage']=''
         # desired_caps['appActivity']=''
 
-        driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_caps)
+        driver = webdriver.Remote("", desired_caps)
 
         return driver
