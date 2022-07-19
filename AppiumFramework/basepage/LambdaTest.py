@@ -4,9 +4,9 @@ from appium import webdriver
 
 class AndroidApp:
 
-    userName = "versusqa1"  #Enter your LT Username here
+    userName = ""  #Enter your LT Username here
     accessKey = "4U0LRkIXHxm9dleSjkQkryCO2l5hYkdqBeZIU387lnqC7wzNdG" #Enter your LT AccessKey here
-    gridURL = "@beta-hub.lambdatest.com/wd/hub"
+    gridURL = ""
 
     DeviceValue=""
     versionValue=""
