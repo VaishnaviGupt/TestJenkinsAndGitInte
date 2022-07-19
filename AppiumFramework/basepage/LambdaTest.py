@@ -26,7 +26,7 @@ class AndroidApp:
             desired_caps["platformName"]=platform
             desired_caps["isRealMobile"]=True
             #AppURL (Create from Wikipedia.apk sample in project)
-            desired_caps["app"]="C:/Users/vaishnavi.gupta_info/Downloads/Android_Demo_App.apk" #Enter your app URL from previous step here
+            desired_caps["app"]="" #Enter your app URL from previous step here
             desired_caps["deviceOrientation"]="PORTRAIT"
             desired_caps["console"]=True
             desired_caps["network"]=True
